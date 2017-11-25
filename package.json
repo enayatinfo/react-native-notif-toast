@@ -1,0 +1,26 @@
+{
+  "name": "react-native-notif-toast",
+  "version": "1.0.0",
+  "description": "React native Notif Toast in 4 status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usef-enayati/react-native-notif-toast.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "toast",
+    "react-native-notif-toast"
+  ],
+  "author": "Usef Enayati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usef-enayati/react-native-notif-toast/issues"
+  },
+  "homepage": "https://github.com/usef-enayati/react-native-notif-toast#readme"
+}
