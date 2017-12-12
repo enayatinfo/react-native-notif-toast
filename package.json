@@ -1,6 +1,6 @@
 {
   "name": "react-native-notif-toast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native Notif Toast in 4 status",
   "main": "index.js",
   "scripts": {
